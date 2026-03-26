@@ -1,0 +1,5 @@
+{
+  "name": "KitKat IPTV",
+  "description": "A Netflix-style IPTV application optimized for Android TV with D-pad navigation support, featuring live Indian TV channels.",
+  "requestFramePermissions": []
+}
